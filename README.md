@@ -67,3 +67,6 @@ To modify logic rules (e.g., preventing "Swimwear" in an "Office" setting), edit
 ## **📄 License**
 
 Distributed under the MIT License.
+
+---
+Testing Ruleset
